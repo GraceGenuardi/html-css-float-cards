@@ -13,6 +13,7 @@ main {
     text-align: center;
     font-size: 40px;
     color: rgb(209, 38, 104);
+    margin-bottom: 30px;
 }
 
 .testo {
@@ -23,7 +24,11 @@ main {
 }
 
 
+.row {
+margin-left: 60px;
 
+
+}
 
 
 .clearfix::after{
@@ -68,6 +73,18 @@ main {
 .card img {
 	height: 110px;
 	margin-bottom: 16px;
+    padding-right: 15px;
     float: left;
 }
+
+.card h2,h4 {
+	padding: 10px;
+    
+}
+
+h4 {
+    color:deepskyblue;
+}
+
+
 
